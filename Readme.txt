@@ -1,5 +1,5 @@
 Compilation instruction
-gcc ASN2.C -o a
+gcc simple-linux-shell.C -o a
 ./a
 
 Citation:

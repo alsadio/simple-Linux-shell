@@ -1,8 +1,4 @@
-/**
- * Omar Al-Sadi (B00895876)
- * Assignment2: A Simple Shell for Linux
- * CSCI3120
- */
+
 #include <stdbool.h>
 #include <ctype.h>
 #include <string.h>
